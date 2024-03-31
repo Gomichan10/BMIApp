@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMI計測アプリ</string>
+    <string name="kg_info">体重を入力してください(kg単位)</string>
+    <string name="m_info">身長を入力してください(cm単位)</string>
+    <string name="sub_Button">計算する</string>
+    <string name="end_Button">終了する</string>
+    <string name="back_Button">戻る</string>
+</resources>
